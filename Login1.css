@@ -1,0 +1,38 @@
+﻿  body
+        {
+            background-image: url("/image/signupbg.jpg");
+            color:White;
+            font-weight:bold;
+        }
+        .container
+        {
+            
+            text-align: center;
+            display: table-row-group;
+            font-size: 20px;
+            width: 829px;
+            height: 256px;
+            margin:50px 30px 30px 80px;
+            position: absolute;
+            top: 70px;
+        }
+        .container
+        {
+            padding: 16px;
+    left: 192px;
+}
+        
+        button
+        {
+            background-color: #4CAF50;
+            color: white;
+            padding: 14px 20px;
+            margin: 8px 0;
+            border: none;
+            cursor: pointer;
+            width: 100%;
+        }
+        button:hover
+        {
+            opacity: 0.8;
+        }
